@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Second post!"
+title:  "First post!"
+author: "Alexis Guinebertiere"
 date:   2018-12-09
-categories: jekyll update
+categories: Technical
 ---
 
-This is my second post!
+This is my first post
